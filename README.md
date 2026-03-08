@@ -5,7 +5,7 @@ Cyber Crime Analysis and Victim Impact Report using Excel Data analytics
 This project analyzes cyber crime cases and their impact on victims using Excel data analysis.
 
 ## Tools Used
-- Excel / LibreOffice Calc
+- LibreOffice Calc
 - Data Cleaning
 - Charts and Visualization
 
